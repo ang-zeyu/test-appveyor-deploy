@@ -1,0 +1,159 @@
+2020-03-10T12:27:14.801Z - info: Website generation started at 8:27:14 PM
+2020-03-10T12:27:14.833Z - info: Building assets...
+2020-03-10T12:27:14.846Z - info: Assets built
+2020-03-10T12:27:14.847Z - info: Generating pages...
+2020-03-10T12:27:15.707Z - info: Pages built
+2020-03-10T12:27:15.864Z - info: Website generation complete! Total build time: 1.102s
+2020-03-10T12:27:15.876Z - info: Generate Site durationMs=1114
+2020-03-10T12:27:15.880Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-10T12:27:15.881Z - info: Press CTRL+C to stop ...
+2020-03-10T12:27:15.886Z - info: Site data built
+2020-03-10T12:27:46.334Z - info: [8:27:46 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingComponents.md
+2020-03-10T12:27:47.335Z - info: Rebuilding affected source files
+2020-03-10T12:27:47.336Z - info: Rebuilding 3 pages
+2020-03-10T12:27:47.839Z - info: Pages rebuilt
+2020-03-10T12:27:47.842Z - info: Site data built
+2020-03-10T13:15:22.994Z - info: Website generation (lazy) started at 9:15:22 PM
+2020-03-10T13:15:23.047Z - info: Building assets...
+2020-03-10T13:15:23.098Z - info: Assets built
+2020-03-10T13:15:23.098Z - info: Generating landing page...
+2020-03-10T13:15:23.270Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-03-10T13:15:23.289Z - info: Website generation (lazy) complete! Total build time: 0.312s
+2020-03-10T13:15:23.305Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-10T13:15:23.305Z - info: Press CTRL+C to stop ...
+2020-03-10T13:15:23.310Z - info: Site data built
+2020-03-10T13:15:25.989Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2020-03-10T13:15:26.128Z - info: Site data built
+2020-03-10T13:15:26.129Z - info: Lazy website regeneration complete! Total build time: 0.143s
+2020-03-10T13:15:28.535Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingComponents as some of its dependencies were changed since the last visit
+2020-03-10T13:15:29.465Z - info: Site data built
+2020-03-10T13:15:29.466Z - info: Lazy website regeneration complete! Total build time: 0.932s
+2020-03-10T15:52:12.598Z - info: Website generation (lazy) started at 11:52:12 PM
+2020-03-10T15:52:12.652Z - info: Building assets...
+2020-03-10T15:52:12.688Z - info: Assets built
+2020-03-10T15:52:12.689Z - info: Generating landing page...
+2020-03-10T15:52:13.056Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-03-10T15:52:13.078Z - info: Website generation (lazy) complete! Total build time: 0.503s
+2020-03-10T15:52:13.094Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-10T15:52:13.094Z - info: Press CTRL+C to stop ...
+2020-03-10T15:52:13.099Z - info: Site data built
+2020-03-10T15:52:48.895Z - info: [11:52:48 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:52:49.900Z - info: Rebuilding affected source files
+2020-03-10T15:52:49.905Z - info: Rebuilding 1 pages
+2020-03-10T15:52:50.294Z - info: Pages rebuilt
+2020-03-10T15:52:50.295Z - info: Website regeneration complete! Total build time: 0.393s
+2020-03-10T15:52:50.297Z - info: Site data built
+2020-03-10T15:53:10.000Z - info: [11:53:10 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:53:11.002Z - info: Rebuilding affected source files
+2020-03-10T15:53:11.003Z - info: Rebuilding 1 pages
+2020-03-10T15:53:11.246Z - info: Pages rebuilt
+2020-03-10T15:53:11.247Z - info: Website regeneration complete! Total build time: 0.244s
+2020-03-10T15:53:11.248Z - info: Site data built
+2020-03-10T15:53:15.158Z - info: [11:53:15 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:53:16.160Z - info: Rebuilding affected source files
+2020-03-10T15:53:16.161Z - info: Rebuilding 1 pages
+2020-03-10T15:53:16.385Z - info: Pages rebuilt
+2020-03-10T15:53:16.386Z - info: Website regeneration complete! Total build time: 0.225s
+2020-03-10T15:53:16.388Z - info: Site data built
+2020-03-10T15:53:37.252Z - info: [11:53:37 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:53:38.255Z - info: Rebuilding affected source files
+2020-03-10T15:53:38.256Z - info: Rebuilding 1 pages
+2020-03-10T15:53:38.617Z - info: Pages rebuilt
+2020-03-10T15:53:38.618Z - info: Website regeneration complete! Total build time: 0.362s
+2020-03-10T15:53:38.620Z - info: Site data built
+2020-03-10T15:53:57.881Z - info: [11:53:57 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:53:58.884Z - info: Rebuilding affected source files
+2020-03-10T15:53:58.884Z - info: Rebuilding 1 pages
+2020-03-10T15:53:59.125Z - info: Pages rebuilt
+2020-03-10T15:53:59.125Z - info: Website regeneration complete! Total build time: 0.241s
+2020-03-10T15:53:59.127Z - info: Site data built
+2020-03-10T15:54:17.391Z - info: [11:54:17 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:54:18.392Z - info: Rebuilding affected source files
+2020-03-10T15:54:18.395Z - info: Rebuilding 1 pages
+2020-03-10T15:54:18.728Z - info: Pages rebuilt
+2020-03-10T15:54:18.728Z - info: Website regeneration complete! Total build time: 0.335s
+2020-03-10T15:54:18.730Z - info: Site data built
+2020-03-10T15:54:27.577Z - info: [11:54:27 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:54:28.582Z - info: Rebuilding affected source files
+2020-03-10T15:54:28.583Z - info: Rebuilding 1 pages
+2020-03-10T15:54:28.820Z - info: Pages rebuilt
+2020-03-10T15:54:28.821Z - info: Website regeneration complete! Total build time: 0.238s
+2020-03-10T15:54:28.822Z - info: Site data built
+2020-03-10T15:55:03.786Z - info: [11:55:03 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:55:04.787Z - info: Rebuilding affected source files
+2020-03-10T15:55:04.787Z - info: Rebuilding 1 pages
+2020-03-10T15:55:05.045Z - info: Pages rebuilt
+2020-03-10T15:55:05.045Z - info: Website regeneration complete! Total build time: 0.258s
+2020-03-10T15:55:05.047Z - info: Site data built
+2020-03-10T15:55:20.387Z - info: [11:55:20 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:55:21.394Z - info: Rebuilding affected source files
+2020-03-10T15:55:21.396Z - info: Rebuilding 1 pages
+2020-03-10T15:55:21.781Z - info: Pages rebuilt
+2020-03-10T15:55:21.781Z - info: Website regeneration complete! Total build time: 0.387s
+2020-03-10T15:55:21.784Z - info: Site data built
+2020-03-10T15:55:35.656Z - info: [11:55:35 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:55:36.657Z - info: Rebuilding affected source files
+2020-03-10T15:55:36.658Z - info: Rebuilding 1 pages
+2020-03-10T15:55:36.894Z - info: Pages rebuilt
+2020-03-10T15:55:36.895Z - info: Website regeneration complete! Total build time: 0.237s
+2020-03-10T15:55:36.896Z - info: Site data built
+2020-03-10T15:56:09.772Z - info: [11:56:09 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:56:10.777Z - info: Rebuilding affected source files
+2020-03-10T15:56:10.780Z - info: Rebuilding 1 pages
+2020-03-10T15:56:11.128Z - info: Pages rebuilt
+2020-03-10T15:56:11.129Z - info: Website regeneration complete! Total build time: 0.351s
+2020-03-10T15:56:11.131Z - info: Site data built
+2020-03-10T15:56:22.506Z - info: [11:56:22 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:56:23.508Z - info: Rebuilding affected source files
+2020-03-10T15:56:23.508Z - info: Rebuilding 1 pages
+2020-03-10T15:56:23.723Z - info: Pages rebuilt
+2020-03-10T15:56:23.724Z - info: Website regeneration complete! Total build time: 0.215s
+2020-03-10T15:56:23.726Z - info: Site data built
+2020-03-10T15:57:11.242Z - info: [11:57:11 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:57:12.244Z - info: Rebuilding affected source files
+2020-03-10T15:57:12.245Z - info: Rebuilding 1 pages
+2020-03-10T15:57:12.495Z - info: Pages rebuilt
+2020-03-10T15:57:12.496Z - info: Website regeneration complete! Total build time: 0.252s
+2020-03-10T15:57:12.498Z - info: Site data built
+2020-03-10T15:58:31.953Z - info: [11:58:31 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:58:32.957Z - info: Rebuilding affected source files
+2020-03-10T15:58:32.962Z - info: Rebuilding 1 pages
+2020-03-10T15:58:33.339Z - info: Pages rebuilt
+2020-03-10T15:58:33.339Z - info: Website regeneration complete! Total build time: 0.381s
+2020-03-10T15:58:33.341Z - info: Site data built
+2020-03-10T15:58:39.113Z - info: [11:58:39 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:58:40.115Z - info: Rebuilding affected source files
+2020-03-10T15:58:40.116Z - info: Rebuilding 1 pages
+2020-03-10T15:58:40.340Z - info: Pages rebuilt
+2020-03-10T15:58:40.340Z - info: Website regeneration complete! Total build time: 0.225s
+2020-03-10T15:58:40.342Z - info: Site data built
+2020-03-10T15:58:52.762Z - info: [11:58:52 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:58:53.765Z - info: Rebuilding affected source files
+2020-03-10T15:58:53.766Z - info: Rebuilding 1 pages
+2020-03-10T15:58:54.098Z - info: Pages rebuilt
+2020-03-10T15:58:54.099Z - info: Website regeneration complete! Total build time: 0.334s
+2020-03-10T15:58:54.101Z - info: Site data built
+2020-03-10T15:59:04.970Z - info: [11:59:04 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:59:05.974Z - info: Rebuilding affected source files
+2020-03-10T15:59:05.975Z - info: Rebuilding 1 pages
+2020-03-10T15:59:06.196Z - info: Pages rebuilt
+2020-03-10T15:59:06.197Z - info: Website regeneration complete! Total build time: 0.222s
+2020-03-10T15:59:06.198Z - info: Site data built
+2020-03-10T15:59:20.568Z - info: [11:59:20 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:59:21.570Z - info: Rebuilding affected source files
+2020-03-10T15:59:21.571Z - info: Rebuilding 1 pages
+2020-03-10T15:59:21.799Z - info: Pages rebuilt
+2020-03-10T15:59:21.799Z - info: Website regeneration complete! Total build time: 0.229s
+2020-03-10T15:59:21.801Z - info: Site data built
+2020-03-10T15:59:38.930Z - info: [11:59:38 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:59:39.938Z - info: Rebuilding affected source files
+2020-03-10T15:59:39.939Z - info: Rebuilding 1 pages
+2020-03-10T15:59:40.288Z - info: Pages rebuilt
+2020-03-10T15:59:40.288Z - info: Website regeneration complete! Total build time: 0.35s
+2020-03-10T15:59:40.290Z - info: Site data built
+2020-03-10T15:59:46.269Z - info: [11:59:46 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\siteConfiguration.md
+2020-03-10T15:59:47.270Z - info: Rebuilding affected source files
+2020-03-10T15:59:47.270Z - info: Rebuilding 1 pages
+2020-03-10T15:59:47.490Z - info: Pages rebuilt
+2020-03-10T15:59:47.490Z - info: Website regeneration complete! Total build time: 0.22s
+2020-03-10T15:59:47.492Z - info: Site data built

@@ -1,0 +1,47 @@
+{
+  "baseUrl": "",
+  "timeZone": "Asia/Singapore",
+  "titlePrefix": "MarkBind",
+  "style": {
+    "codeTheme": "light"
+  },
+  "pages": [
+    {
+      "glob": ["**/*.mbd", "*.md", "userGuide/*.md", "devGuide/*.md", "devGuide/*/*.md"]
+    },
+    {
+      "src": [
+        "index.md",
+        "userGuide/fullSyntaxReference.md",
+        "userGuide/syntaxCheatSheet.md",
+        "userGuide/readerFacingFeatures.md"
+      ],
+      "searchable": "no"
+    }
+  ],
+  "plugins" : [
+    "filterTags"
+  ],
+  "pluginsContext" : {
+    "filterTags" : {
+      "tags": ["environment--ug", "environment--dg"]
+    }
+  },
+  "headingIndexingLevel": 6,
+  "ignore": [
+    "_markbind",
+    "_site/*",
+    "lib/*",
+    "*.json",
+    "*.md",
+    "*.mbd",
+    "*.mbdf",
+    "*.njk",
+    ".git/*",
+    "*.pptx",
+    "CNAME"
+  ],
+  "deploy": {
+    "message": "Site Update."
+  }
+}

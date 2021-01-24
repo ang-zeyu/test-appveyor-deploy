@@ -1,0 +1,756 @@
+2020-03-16T09:50:39.717Z - info: Website generation started at 5:50:39 PM
+2020-03-16T09:50:39.783Z - info: Building assets...
+2020-03-16T09:50:39.820Z - info: Assets built
+2020-03-16T09:50:39.821Z - info: Generating pages...
+2020-03-16T09:50:45.274Z - info: Pages built
+2020-03-16T09:50:46.348Z - info: Website generation complete! Total build time: 6.658s
+2020-03-16T09:50:46.367Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T09:50:46.368Z - info: Press CTRL+C to stop ...
+2020-03-16T09:50:46.376Z - info: Site data built
+2020-03-16T10:38:49.580Z - info: Website generation started at 6:38:49 PM
+2020-03-16T10:38:49.634Z - info: Building assets...
+2020-03-16T10:38:49.672Z - info: Assets built
+2020-03-16T10:38:49.672Z - info: Generating pages...
+2020-03-16T10:38:55.098Z - info: Pages built
+2020-03-16T10:38:56.184Z - info: Website generation complete! Total build time: 6.627s
+2020-03-16T10:38:56.203Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T10:38:56.203Z - info: Press CTRL+C to stop ...
+2020-03-16T10:38:56.209Z - info: Site data built
+2020-03-16T10:41:42.380Z - info: Website generation started at 6:41:42 PM
+2020-03-16T10:41:42.434Z - info: Building assets...
+2020-03-16T10:41:42.485Z - info: Assets built
+2020-03-16T10:41:42.485Z - info: Generating pages...
+2020-03-16T10:41:48.029Z - info: Pages built
+2020-03-16T10:41:49.100Z - info: Website generation complete! Total build time: 6.746s
+2020-03-16T10:41:49.120Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T10:41:49.120Z - info: Press CTRL+C to stop ...
+2020-03-16T10:41:49.126Z - info: Site data built
+2020-03-16T12:33:35.328Z - info: Website generation started at 8:33:35 PM
+2020-03-16T12:33:35.381Z - info: Building assets...
+2020-03-16T12:33:35.432Z - info: Assets built
+2020-03-16T12:33:35.432Z - info: Generating pages...
+2020-03-16T12:33:41.003Z - info: Pages built
+2020-03-16T12:33:42.089Z - info: Website generation complete! Total build time: 6.785s
+2020-03-16T12:33:42.107Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T12:33:42.107Z - info: Press CTRL+C to stop ...
+2020-03-16T12:33:42.113Z - info: Site data built
+2020-03-16T12:34:40.868Z - info: Website generation (lazy) started at 8:34:40 PM
+2020-03-16T12:34:40.922Z - info: Building assets...
+2020-03-16T12:34:40.958Z - info: Assets built
+2020-03-16T12:34:40.959Z - info: Generating landing page...
+2020-03-16T12:34:41.131Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-03-16T12:34:41.150Z - info: Website generation (lazy) complete! Total build time: 0.306s
+2020-03-16T12:34:41.167Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T12:34:41.167Z - info: Press CTRL+C to stop ...
+2020-03-16T12:34:41.174Z - info: Site data built
+2020-03-16T12:35:02.841Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2020-03-16T12:35:03.006Z - info: Site data built
+2020-03-16T12:35:03.007Z - info: Lazy website regeneration complete! Total build time: 0.168s
+2020-03-16T12:35:06.562Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingComponents as some of its dependencies were changed since the last visit
+2020-03-16T12:35:07.528Z - info: Site data built
+2020-03-16T12:35:07.529Z - info: Lazy website regeneration complete! Total build time: 0.968s
+2020-03-16T12:35:10.564Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingPlugins as some of its dependencies were changed since the last visit
+2020-03-16T12:35:10.716Z - info: Site data built
+2020-03-16T12:35:10.716Z - info: Lazy website regeneration complete! Total build time: 0.152s
+2020-03-16T12:35:52.574Z - info: [8:35:52 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingPlugins.md
+2020-03-16T12:35:53.577Z - info: Rebuilding affected source files
+2020-03-16T12:35:53.578Z - info: Rebuilding 1 pages
+2020-03-16T12:35:53.848Z - info: Pages rebuilt
+2020-03-16T12:35:53.848Z - info: Website regeneration complete! Total build time: 0.271s
+2020-03-16T12:35:53.851Z - info: Site data built
+2020-03-16T12:36:07.155Z - info: [8:36:07 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingPlugins.md
+2020-03-16T12:36:08.155Z - info: Rebuilding affected source files
+2020-03-16T12:36:08.156Z - info: Rebuilding 1 pages
+2020-03-16T12:36:08.326Z - info: Pages rebuilt
+2020-03-16T12:36:08.327Z - info: Website regeneration complete! Total build time: 0.171s
+2020-03-16T12:36:08.328Z - info: Site data built
+2020-03-16T12:36:23.542Z - info: [8:36:23 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingPlugins.md
+2020-03-16T12:36:24.545Z - info: Rebuilding affected source files
+2020-03-16T12:36:24.547Z - info: Rebuilding 1 pages
+2020-03-16T12:36:24.716Z - info: Pages rebuilt
+2020-03-16T12:36:24.717Z - info: Website regeneration complete! Total build time: 0.172s
+2020-03-16T12:36:24.718Z - info: Site data built
+2020-03-16T12:36:34.912Z - info: [8:36:34 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingPlugins.md
+2020-03-16T12:36:35.914Z - info: Rebuilding affected source files
+2020-03-16T12:36:35.915Z - info: Rebuilding 1 pages
+2020-03-16T12:36:36.072Z - info: Pages rebuilt
+2020-03-16T12:36:36.072Z - info: Website regeneration complete! Total build time: 0.158s
+2020-03-16T12:36:36.074Z - info: Site data built
+2020-03-16T12:37:07.049Z - info: [8:37:07 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingPlugins.md
+2020-03-16T12:37:08.050Z - info: Rebuilding affected source files
+2020-03-16T12:37:08.051Z - info: Rebuilding 1 pages
+2020-03-16T12:37:08.214Z - info: Pages rebuilt
+2020-03-16T12:37:08.215Z - info: Website regeneration complete! Total build time: 0.164s
+2020-03-16T12:37:08.216Z - info: Site data built
+2020-03-16T12:39:39.388Z - info: Website generation (lazy) started at 8:39:39 PM
+2020-03-16T12:39:39.441Z - info: Building assets...
+2020-03-16T12:39:39.492Z - info: Assets built
+2020-03-16T12:39:39.492Z - info: Generating landing page...
+2020-03-16T12:39:39.666Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-03-16T12:39:39.685Z - info: Website generation (lazy) complete! Total build time: 0.319s
+2020-03-16T12:39:39.703Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T12:39:39.703Z - info: Press CTRL+C to stop ...
+2020-03-16T12:39:39.708Z - info: Site data built
+2020-03-16T12:39:47.763Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2020-03-16T12:39:47.902Z - info: Site data built
+2020-03-16T12:39:47.903Z - info: Lazy website regeneration complete! Total build time: 0.142s
+2020-03-16T12:39:51.410Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingComponents as some of its dependencies were changed since the last visit
+2020-03-16T12:39:52.429Z - info: Site data built
+2020-03-16T12:39:52.430Z - info: Lazy website regeneration complete! Total build time: 1.02s
+2020-03-16T13:09:08.650Z - info: Website generation started at 9:09:08 PM
+2020-03-16T13:09:08.703Z - info: Building assets...
+2020-03-16T13:09:08.753Z - info: Assets built
+2020-03-16T13:09:08.753Z - info: Generating pages...
+2020-03-16T13:09:14.573Z - info: Pages built
+2020-03-16T13:09:15.631Z - info: Website generation complete! Total build time: 7.003s
+2020-03-16T13:09:15.649Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T13:09:15.649Z - info: Press CTRL+C to stop ...
+2020-03-16T13:09:15.654Z - info: Site data built
+2020-03-16T13:11:27.078Z - info: Website generation started at 9:11:27 PM
+2020-03-16T13:11:27.132Z - info: Building assets...
+2020-03-16T13:11:27.168Z - info: Assets built
+2020-03-16T13:11:27.168Z - info: Generating pages...
+2020-03-16T13:11:32.775Z - info: Pages built
+2020-03-16T13:11:33.860Z - info: Website generation complete! Total build time: 6.806s
+2020-03-16T13:11:33.879Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T13:11:33.879Z - info: Press CTRL+C to stop ...
+2020-03-16T13:11:33.884Z - info: Site data built
+2020-03-16T13:12:23.193Z - error: uncaughtException: Unexpected token 'throw' date=Mon Mar 16 2020 21:12:23 GMT+0800 (Singapore Standard Time), pid=10704, uid=null, gid=null, cwd=C:\Users\Ze Yu\Desktop\markbind\docs, execPath=C:\Program Files\nodejs\node.exe, version=v12.13.1, argv=[C:\Program Files\nodejs\node.exe, C:\Users\Ze Yu\AppData\Roaming\npm\node_modules\markbind-cli\index.js, serve], rss=57954304, heapTotal=53288960, heapUsed=21772656, external=1525590, loadavg=[0, 0, 0], uptime=21738
+C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1002
+            .then(() => throw new Error('aha'))
+                        ^^^^^
+
+SyntaxError: Unexpected token 'throw'
+    at Module._compile (internal/modules/cjs/loader.js:895:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\Ze Yu\Desktop\markbind\src\Site.js:34:14)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Module.require (internal/modules/cjs/loader.js:852:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\Ze Yu\Desktop\markbind\index.js:19:14)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+2020-03-16T13:13:06.243Z - info: Website generation started at 9:13:06 PM
+2020-03-16T13:13:06.297Z - info: Building assets...
+2020-03-16T13:13:06.348Z - info: Assets built
+2020-03-16T13:13:06.349Z - info: Generating pages...
+2020-03-16T13:13:11.938Z - info: Pages built
+2020-03-16T13:13:12.983Z - info: Website generation complete! Total build time: 6.765s
+2020-03-16T13:13:13.003Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T13:13:13.003Z - info: Press CTRL+C to stop ...
+2020-03-16T13:13:13.010Z - info: Site data built
+2020-03-16T13:13:51.262Z - info: Website generation started at 9:13:51 PM
+2020-03-16T13:13:51.316Z - info: Building assets...
+2020-03-16T13:13:51.354Z - info: Assets built
+2020-03-16T13:13:51.354Z - info: Generating pages...
+2020-03-16T13:13:56.887Z - info: Pages built
+2020-03-16T13:13:57.963Z - info: Website generation complete! Total build time: 6.726s
+2020-03-16T13:13:57.997Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T13:13:57.997Z - info: Press CTRL+C to stop ...
+2020-03-16T13:13:58.003Z - info: Site data built
+2020-03-16T13:14:11.816Z - info: Website generation started at 9:14:11 PM
+2020-03-16T13:14:11.869Z - info: Building assets...
+2020-03-16T13:14:11.907Z - info: Assets built
+2020-03-16T13:14:11.908Z - info: Generating pages...
+2020-03-16T13:14:17.350Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.351Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.352Z - error:  Error: EPERM: operation not permitted, open 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.352Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.353Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.353Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.353Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.354Z - error:  Error: EPERM: operation not permitted, open 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.354Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.354Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.355Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.355Z - error:  Error: EPERM: operation not permitted, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.357Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.357Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.357Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.358Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.358Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.358Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.359Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.359Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.359Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.360Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.360Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.360Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.361Z - error:  Error: ENOENT: no such file or directory, chmod 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.362Z - error:  Error: ENOENT: no such file or directory, chmod 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.370Z - error:  Error: ENOENT: no such file or directory, unlink 'C:\Users\Ze Yu\Desktop\markbind\docs\_site\plugins\markbind-plugin-anchors\markbind-plugin-anchors.css'
+2020-03-16T13:14:17.375Z - info: Pages built
+2020-03-16T13:14:18.469Z - info: Website generation complete! Total build time: 6.679s
+2020-03-16T13:14:18.488Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T13:14:18.489Z - info: Press CTRL+C to stop ...
+2020-03-16T13:14:18.496Z - info: Site data built
+2020-03-16T13:41:11.245Z - info: Website generation started at 9:41:11 PM
+2020-03-16T13:41:11.299Z - info: Building assets...
+2020-03-16T13:41:11.349Z - info: Assets built
+2020-03-16T13:41:11.349Z - info: Generating pages...
+2020-03-16T13:41:12.772Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:12.773Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:12.774Z - warn:  Error: Error while generating C:\Users\Ze Yu\Desktop\markbind\docs\about.md
+    at C:\Users\Ze Yu\Desktop\markbind\src\Site.js:965:33
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:725:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:12.802Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.390Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.390Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.391Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.391Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.392Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.393Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.393Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.394Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.925Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.925Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.926Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.926Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.927Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.927Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.928Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.928Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.929Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.930Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.930Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.931Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.931Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.932Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.932Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.991Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.992Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:13.992Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:14.007Z - error:  ReferenceError: path is not defined
+    at Object.getLinks (C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.js:9:84)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1020:34
+    at Array.forEach (<anonymous>)
+    at Page.collectPluginsAssets (C:\Users\Ze Yu\Desktop\markbind\src\Page.js:1018:34)
+    at C:\Users\Ze Yu\Desktop\markbind\src\Page.js:805:30
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:729:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:14.012Z - warn:  Error: Error while generating C:\Users\Ze Yu\Desktop\markbind\docs\about.md
+    at C:\Users\Ze Yu\Desktop\markbind\src\Site.js:965:33
+    at tryCatcher (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\promise.js:725:18)
+    at _drainQueueStep (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Ze Yu\Desktop\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-03-16T13:41:14.013Z - error: Error while generating C:\Users\Ze Yu\Desktop\markbind\docs\about.md
+2020-03-16T13:41:30.870Z - info: Website generation started at 9:41:30 PM
+2020-03-16T13:41:30.925Z - info: Building assets...
+2020-03-16T13:41:30.979Z - info: Assets built
+2020-03-16T13:41:30.979Z - info: Generating pages...
+2020-03-16T13:41:36.630Z - info: Pages built
+2020-03-16T13:41:37.679Z - info: Website generation complete! Total build time: 6.812s
+2020-03-16T13:41:37.700Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-16T13:41:37.700Z - info: Press CTRL+C to stop ...
+2020-03-16T13:41:37.711Z - info: Site data built
+2020-03-16T14:17:29.149Z - info: [10:17:29 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingPlugins.md
+2020-03-16T14:17:29.247Z - info: [10:17:29 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingPlugins.md
+2020-03-16T14:17:30.151Z - info: Rebuilding affected source files
+2020-03-16T14:17:30.153Z - info: Rebuilding 3 pages
+2020-03-16T14:17:30.516Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:17:30.517Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:17:30.635Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:17:30.684Z - info: Pages rebuilt
+2020-03-16T14:17:30.685Z - info: Website regeneration complete! Total build time: 0.534s
+2020-03-16T14:17:30.688Z - info: Site data built
+2020-03-16T14:30:22.285Z - info: [10:30:22 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\usingPlugins.md
+2020-03-16T14:30:23.287Z - info: Rebuilding affected source files
+2020-03-16T14:30:23.288Z - info: Rebuilding 3 pages
+2020-03-16T14:30:23.535Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:30:23.587Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:30:23.666Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:30:23.694Z - info: Pages rebuilt
+2020-03-16T14:30:23.694Z - info: Website regeneration complete! Total build time: 0.407s
+2020-03-16T14:30:23.696Z - info: Site data built
+2020-03-16T14:59:31.857Z - info: [10:59:31 PM] Reload for file change: C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\syntax\code.mbdf
+2020-03-16T14:59:32.861Z - info: Rebuilding affected source files
+2020-03-16T14:59:32.863Z - info: Rebuilding 5 pages
+2020-03-16T14:59:33.983Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:59:34.822Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:59:36.522Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:59:36.523Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:59:36.563Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:59:36.584Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:59:36.584Z - error: Failed to copy asset C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, lstat 'C:\Users\Ze Yu\Desktop\markbind\src\plugins\default\markbind-plugin-anchors.css'
+2020-03-16T14:59:37.375Z - info: Pages rebuilt
+2020-03-16T14:59:37.376Z - info: Website regeneration complete! Total build time: 4.513s
+2020-03-16T14:59:37.379Z - info: Site data built

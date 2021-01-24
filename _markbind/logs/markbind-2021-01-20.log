@@ -1,0 +1,250 @@
+2021-01-20T00:39:01.587Z - info: Website generation (lazy) started at 8:39:01 AM
+2021-01-20T00:39:01.685Z - info: Building assets...
+2021-01-20T00:39:01.736Z - info: Assets built
+2021-01-20T00:39:01.737Z - info: Generating landing page...
+2021-01-20T00:39:02.487Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T00:39:04.976Z - info: Site data built
+2021-01-20T00:39:04.976Z - info: Website generation (lazy) complete! Total build time: 3.443s
+2021-01-20T00:39:04.992Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T00:39:04.992Z - info: Press CTRL+C to stop ...
+2021-01-20T00:39:13.308Z - info: Website generation (lazy) started at 8:39:13 AM
+2021-01-20T00:39:13.383Z - info: Building assets...
+2021-01-20T00:39:13.432Z - info: Assets built
+2021-01-20T00:39:13.432Z - info: Generating landing page...
+2021-01-20T00:39:13.982Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T00:39:16.491Z - info: Site data built
+2021-01-20T00:39:16.491Z - info: Website generation (lazy) complete! Total build time: 3.212s
+2021-01-20T00:39:16.504Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T00:39:16.504Z - info: Press CTRL+C to stop ...
+2021-01-20T00:39:20.671Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2021-01-20T00:39:20.717Z - info: Site data built
+2021-01-20T00:39:20.718Z - info: Lazy website regeneration complete! Total build time: 0.047s
+2021-01-20T00:39:22.027Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\gettingStarted as some of its dependencies were changed since the last visit
+2021-01-20T00:39:22.115Z - info: Site data built
+2021-01-20T00:39:22.115Z - info: Lazy website regeneration complete! Total build time: 0.089s
+2021-01-20T00:39:24.966Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\themes as some of its dependencies were changed since the last visit
+2021-01-20T00:39:25.066Z - info: Site data built
+2021-01-20T00:39:25.066Z - info: Lazy website regeneration complete! Total build time: 0.102s
+2021-01-20T00:39:35.488Z - info: Website generation (lazy) started at 8:39:35 AM
+2021-01-20T00:39:35.559Z - info: Building assets...
+2021-01-20T00:39:35.608Z - info: Assets built
+2021-01-20T00:39:35.608Z - info: Generating landing page...
+2021-01-20T00:39:36.228Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T00:39:38.654Z - info: Site data built
+2021-01-20T00:39:38.654Z - info: Website generation (lazy) complete! Total build time: 3.195s
+2021-01-20T00:39:38.667Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T00:39:38.667Z - info: Press CTRL+C to stop ...
+2021-01-20T00:39:41.567Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2021-01-20T00:39:41.585Z - info: Site data built
+2021-01-20T00:39:41.585Z - info: Lazy website regeneration complete! Total build time: 0.018s
+2021-01-20T00:39:42.899Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\gettingStarted as some of its dependencies were changed since the last visit
+2021-01-20T00:39:42.965Z - info: Site data built
+2021-01-20T00:39:42.965Z - info: Lazy website regeneration complete! Total build time: 0.066s
+2021-01-20T00:39:46.238Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\themes as some of its dependencies were changed since the last visit
+2021-01-20T00:39:46.313Z - info: Site data built
+2021-01-20T00:39:46.313Z - info: Lazy website regeneration complete! Total build time: 0.076s
+2021-01-20T00:40:11.555Z - info: Website generation (lazy) started at 8:40:11 AM
+2021-01-20T00:40:11.645Z - info: Building assets...
+2021-01-20T00:40:11.701Z - info: Assets built
+2021-01-20T00:40:11.701Z - info: Generating landing page...
+2021-01-20T00:40:12.253Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T00:40:14.787Z - info: Site data built
+2021-01-20T00:40:14.787Z - info: Website generation (lazy) complete! Total build time: 3.261s
+2021-01-20T00:40:14.800Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T00:40:14.800Z - info: Press CTRL+C to stop ...
+2021-01-20T00:40:20.290Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2021-01-20T00:40:20.304Z - info: Site data built
+2021-01-20T00:40:20.304Z - info: Lazy website regeneration complete! Total build time: 0.015s
+2021-01-20T00:40:21.624Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\gettingStarted as some of its dependencies were changed since the last visit
+2021-01-20T00:40:21.717Z - info: Site data built
+2021-01-20T00:40:21.717Z - info: Lazy website regeneration complete! Total build time: 0.094s
+2021-01-20T00:40:24.460Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\usingComponents as some of its dependencies were changed since the last visit
+2021-01-20T00:40:25.117Z - info: Site data built
+2021-01-20T00:40:25.118Z - info: Lazy website regeneration complete! Total build time: 0.658s
+2021-01-20T00:41:25.795Z - info: [8:41:25 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\site.json
+2021-01-20T00:41:26.803Z - info: Assets built
+2021-01-20T00:42:07.942Z - info: [8:42:07 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T00:42:08.981Z - info: Rebuilding 1 pages
+2021-01-20T00:42:09.587Z - info: Site data built
+2021-01-20T00:42:09.587Z - info: Pages rebuilt
+2021-01-20T00:42:09.588Z - info: Website regeneration complete! Total build time: 0.607s
+2021-01-20T00:42:21.178Z - info: [8:42:21 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T00:42:22.224Z - info: Rebuilding 1 pages
+2021-01-20T00:42:22.848Z - info: Site data built
+2021-01-20T00:42:22.848Z - info: Pages rebuilt
+2021-01-20T00:42:22.848Z - info: Website regeneration complete! Total build time: 0.625s
+2021-01-20T00:43:16.554Z - info: Website generation (lazy) started at 8:43:16 AM
+2021-01-20T00:43:16.627Z - info: Building assets...
+2021-01-20T00:43:16.676Z - info: Assets built
+2021-01-20T00:43:16.677Z - info: Generating landing page...
+2021-01-20T00:43:17.230Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T00:43:19.791Z - info: Site data built
+2021-01-20T00:43:19.791Z - info: Website generation (lazy) complete! Total build time: 3.267s
+2021-01-20T00:43:19.804Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T00:43:19.804Z - info: Press CTRL+C to stop ...
+2021-01-20T00:46:29.512Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2021-01-20T00:46:29.543Z - info: Site data built
+2021-01-20T00:46:29.544Z - info: Lazy website regeneration complete! Total build time: 0.032s
+2021-01-20T00:46:30.901Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\gettingStarted as some of its dependencies were changed since the last visit
+2021-01-20T00:46:30.992Z - info: Site data built
+2021-01-20T00:46:30.993Z - info: Lazy website regeneration complete! Total build time: 0.091s
+2021-01-20T00:52:54.567Z - info: [8:52:54 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T00:52:55.605Z - info: Rebuilding 1 pages
+2021-01-20T00:52:55.655Z - info: Site data built
+2021-01-20T00:52:55.655Z - info: Pages rebuilt
+2021-01-20T00:52:55.656Z - info: Website regeneration complete! Total build time: 0.05s
+2021-01-20T00:58:13.522Z - info: Website generation (lazy) started at 8:58:13 AM
+2021-01-20T00:58:13.597Z - info: Building assets...
+2021-01-20T00:58:13.654Z - info: Assets built
+2021-01-20T00:58:13.655Z - info: Generating landing page...
+2021-01-20T00:58:14.320Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T00:58:16.795Z - info: Site data built
+2021-01-20T00:58:16.796Z - info: Website generation (lazy) complete! Total build time: 3.305s
+2021-01-20T00:58:16.808Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T00:58:16.809Z - info: Press CTRL+C to stop ...
+2021-01-20T00:58:26.564Z - info: Website generation (lazy) started at 8:58:26 AM
+2021-01-20T00:58:26.637Z - info: Building assets...
+2021-01-20T00:58:26.689Z - info: Assets built
+2021-01-20T00:58:26.690Z - info: Generating landing page...
+2021-01-20T00:58:27.363Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T00:58:29.822Z - info: Site data built
+2021-01-20T00:58:29.823Z - info: Website generation (lazy) complete! Total build time: 3.29s
+2021-01-20T00:58:29.836Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T00:58:29.836Z - info: Press CTRL+C to stop ...
+2021-01-20T00:59:04.565Z - info: [8:59:04 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T00:59:05.596Z - info: Rebuilding 1 pages
+2021-01-20T00:59:05.700Z - info: Site data built
+2021-01-20T00:59:05.700Z - info: Pages rebuilt
+2021-01-20T00:59:05.700Z - info: Website regeneration complete! Total build time: 0.105s
+2021-01-20T00:59:12.393Z - info: [8:59:12 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T00:59:13.402Z - info: Rebuilding 1 pages
+2021-01-20T00:59:13.473Z - info: Site data built
+2021-01-20T00:59:13.473Z - info: Pages rebuilt
+2021-01-20T00:59:13.474Z - info: Website regeneration complete! Total build time: 0.073s
+2021-01-20T00:59:24.124Z - info: [8:59:24 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T00:59:25.131Z - info: Rebuilding 1 pages
+2021-01-20T00:59:25.195Z - info: Site data built
+2021-01-20T00:59:25.196Z - info: Pages rebuilt
+2021-01-20T00:59:25.196Z - info: Website regeneration complete! Total build time: 0.065s
+2021-01-20T01:08:51.403Z - info: Website generation (lazy) started at 9:08:51 AM
+2021-01-20T01:08:51.477Z - info: Building assets...
+2021-01-20T01:08:51.528Z - info: Assets built
+2021-01-20T01:08:51.529Z - info: Generating landing page...
+2021-01-20T01:08:52.110Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T01:08:54.775Z - info: Site data built
+2021-01-20T01:08:54.775Z - info: Website generation (lazy) complete! Total build time: 3.403s
+2021-01-20T01:08:54.788Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T01:08:54.788Z - info: Press CTRL+C to stop ...
+2021-01-20T05:21:01.331Z - info: Website generation (lazy) started at 1:21:01 PM
+2021-01-20T05:21:01.409Z - info: Building assets...
+2021-01-20T05:21:01.462Z - info: Assets built
+2021-01-20T05:21:01.463Z - info: Generating landing page...
+2021-01-20T05:21:02.020Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T05:21:04.602Z - info: Site data built
+2021-01-20T05:21:04.603Z - info: Website generation (lazy) complete! Total build time: 3.304s
+2021-01-20T05:21:04.616Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T05:21:04.616Z - info: Press CTRL+C to stop ...
+2021-01-20T05:21:18.071Z - info: [1:21:18 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T05:21:19.095Z - info: Rebuilding 1 pages
+2021-01-20T05:21:19.201Z - info: Site data built
+2021-01-20T05:21:19.202Z - info: Pages rebuilt
+2021-01-20T05:21:19.202Z - info: Website regeneration complete! Total build time: 0.107s
+2021-01-20T05:21:25.973Z - info: [1:21:25 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T05:21:26.985Z - info: Rebuilding 1 pages
+2021-01-20T05:21:27.060Z - info: Site data built
+2021-01-20T05:21:27.060Z - info: Pages rebuilt
+2021-01-20T05:21:27.060Z - info: Website regeneration complete! Total build time: 0.076s
+2021-01-20T05:24:41.331Z - info: Website generation (lazy) started at 1:24:41 PM
+2021-01-20T05:24:41.406Z - info: Building assets...
+2021-01-20T05:24:41.461Z - info: Assets built
+2021-01-20T05:24:41.461Z - info: Generating landing page...
+2021-01-20T05:24:42.004Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T05:24:44.558Z - info: Site data built
+2021-01-20T05:24:44.558Z - info: Website generation (lazy) complete! Total build time: 3.263s
+2021-01-20T05:24:44.571Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T05:24:44.571Z - info: Press CTRL+C to stop ...
+2021-01-20T05:25:09.291Z - info: [1:25:09 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T05:25:10.324Z - info: Rebuilding 1 pages
+2021-01-20T05:25:10.428Z - info: Site data built
+2021-01-20T05:25:10.428Z - info: Pages rebuilt
+2021-01-20T05:25:10.428Z - info: Website regeneration complete! Total build time: 0.105s
+2021-01-20T05:30:51.529Z - info: Website generation (lazy) started at 1:30:51 PM
+2021-01-20T05:30:51.603Z - info: Building assets...
+2021-01-20T05:30:51.657Z - info: Assets built
+2021-01-20T05:30:51.657Z - info: Generating landing page...
+2021-01-20T05:30:52.229Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-20T05:30:55.138Z - info: Site data built
+2021-01-20T05:30:55.138Z - info: Website generation (lazy) complete! Total build time: 3.642s
+2021-01-20T05:30:55.151Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T05:30:55.152Z - info: Press CTRL+C to stop ...
+2021-01-20T14:27:16.604Z - info: Website generation started at 10:27:16 PM
+2021-01-20T14:27:16.683Z - info: Building assets...
+2021-01-20T14:27:16.736Z - info: Assets built
+2021-01-20T14:27:16.736Z - info: Generating pages...
+2021-01-20T14:27:16.786Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-20T14:27:16.787Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-20T14:27:18.123Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:27:19.313Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:27:20.134Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:27:20.439Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:27:21.058Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-20T14:27:21.062Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-20T14:27:21.153Z - info: Pages built
+2021-01-20T14:27:23.510Z - info: Site data built
+2021-01-20T14:27:23.510Z - info: Website generation complete! Total build time: 6.942s
+2021-01-20T14:27:23.523Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T14:27:23.524Z - info: Press CTRL+C to stop ...
+2021-01-20T14:28:20.684Z - info: [10:28:20 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\layouts\headers\header.mbdf
+2021-01-20T14:28:21.737Z - info: Rebuilding 37 pages
+2021-01-20T14:28:21.756Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-20T14:28:21.757Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-20T14:28:22.694Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:28:23.612Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:28:24.384Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:28:24.609Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:28:25.256Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-20T14:28:25.259Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-20T14:28:25.338Z - info: Site data built
+2021-01-20T14:28:25.338Z - info: Pages rebuilt
+2021-01-20T14:28:25.339Z - info: Website regeneration complete! Total build time: 3.601s
+2021-01-20T14:28:41.543Z - info: Website generation started at 10:28:41 PM
+2021-01-20T14:28:41.619Z - info: Building assets...
+2021-01-20T14:28:41.671Z - info: Assets built
+2021-01-20T14:28:41.671Z - info: Generating pages...
+2021-01-20T14:28:41.721Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-20T14:28:41.721Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-20T14:28:43.018Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:28:44.228Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:28:45.012Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:28:45.322Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-20T14:28:45.946Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-20T14:28:45.949Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-20T14:28:46.046Z - info: Pages built
+2021-01-20T14:28:48.462Z - info: Site data built
+2021-01-20T14:28:48.462Z - info: Website generation complete! Total build time: 6.955s
+2021-01-20T14:28:48.475Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-20T14:28:48.476Z - info: Press CTRL+C to stop ...

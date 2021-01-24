@@ -1,0 +1,74 @@
+2021-01-18T08:31:35.206Z - info: Website generation started at 4:31:35 PM
+2021-01-18T08:31:35.284Z - info: Building assets...
+2021-01-18T08:31:35.341Z - info: Assets built
+2021-01-18T08:31:35.341Z - info: Generating pages...
+2021-01-18T08:31:35.392Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-18T08:31:35.392Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-18T08:31:36.469Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:31:37.982Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:31:38.894Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:31:39.206Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:31:39.826Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-18T08:31:39.829Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-18T08:31:39.922Z - info: Pages built
+2021-01-18T08:31:42.300Z - info: Site data built
+2021-01-18T08:31:42.300Z - info: Website generation complete! Total build time: 7.129s
+2021-01-18T08:31:42.314Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-18T08:31:42.314Z - info: Press CTRL+C to stop ...
+2021-01-18T08:36:17.949Z - info: [4:36:17 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-18T08:36:18.965Z - info: Rebuilding 1 pages
+2021-01-18T08:36:19.057Z - info: Site data built
+2021-01-18T08:36:19.057Z - info: Pages rebuilt
+2021-01-18T08:36:19.058Z - info: Website regeneration complete! Total build time: 0.092s
+2021-01-18T08:36:36.115Z - info: [4:36:36 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\panels.mbdf
+2021-01-18T08:36:37.129Z - info: Rebuilding 4 pages
+2021-01-18T08:36:37.260Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:36:37.632Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:36:37.899Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:36:39.532Z - info: Site data built
+2021-01-18T08:36:39.532Z - info: Pages rebuilt
+2021-01-18T08:36:39.532Z - info: Website regeneration complete! Total build time: 2.403s
+2021-01-18T08:36:55.505Z - info: [4:36:55 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\panels.mbdf
+2021-01-18T08:36:56.514Z - info: Rebuilding 4 pages
+2021-01-18T08:36:56.668Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:36:57.040Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:36:57.302Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:36:59.025Z - info: Site data built
+2021-01-18T08:36:59.026Z - info: Pages rebuilt
+2021-01-18T08:36:59.026Z - info: Website regeneration complete! Total build time: 2.513s
+2021-01-18T08:37:16.858Z - info: [4:37:16 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\_markbind\variables.md
+2021-01-18T08:37:17.869Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-01-18T08:37:17.870Z - info: Rebuilding 37 pages
+2021-01-18T08:37:17.896Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-18T08:37:17.896Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/images/dev%20diagrams/architecture.png' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\design\architecture.md'
+2021-01-18T08:37:18.655Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:37:19.703Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:37:20.478Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:37:20.696Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-18T08:37:21.318Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-18T08:37:21.325Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/devGuide/design.html' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\devGuide\workflow.md'
+2021-01-18T08:37:21.412Z - info: Site data built
+2021-01-18T08:37:21.413Z - info: Pages rebuilt
+2021-01-18T08:37:21.413Z - info: Website regeneration complete! Total build time: 3.552s

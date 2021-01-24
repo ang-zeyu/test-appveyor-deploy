@@ -1,0 +1,53 @@
+2021-01-12T04:04:35.120Z - info: Website generation (lazy) started at 12:04:35 PM
+2021-01-12T04:04:35.217Z - info: Building assets...
+2021-01-12T04:04:35.259Z - info: Assets built
+2021-01-12T04:04:35.260Z - info: Generating landing page...
+2021-01-12T04:04:35.411Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-12T04:04:35.506Z - info: Site data built
+2021-01-12T04:04:35.506Z - info: Website generation (lazy) complete! Total build time: 0.444s
+2021-01-12T04:04:35.522Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-12T04:04:35.522Z - info: Press CTRL+C to stop ...
+2021-01-12T04:04:37.591Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2021-01-12T04:04:37.625Z - info: Site data built
+2021-01-12T04:04:37.626Z - info: Lazy website regeneration complete! Total build time: 0.035s
+2021-01-12T04:04:38.788Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\gettingStarted as some of its dependencies were changed since the last visit
+2021-01-12T04:04:38.853Z - info: Site data built
+2021-01-12T04:04:38.853Z - info: Lazy website regeneration complete! Total build time: 0.065s
+2021-01-12T04:05:06.832Z - info: [12:05:06 PM] Reload for file deletion: C:\Users\ZeYu\Desktop\markbind\docs\images\logo.svg
+2021-01-12T04:05:07.867Z - debug: Assets removed
+2021-01-12T04:05:27.815Z - info: Website generation (lazy) started at 12:05:27 PM
+2021-01-12T04:05:27.891Z - info: Building assets...
+2021-01-12T04:05:27.933Z - info: Assets built
+2021-01-12T04:05:27.934Z - info: Generating landing page...
+2021-01-12T04:05:28.052Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-12T04:05:28.118Z - info: Site data built
+2021-01-12T04:05:28.118Z - info: Website generation (lazy) complete! Total build time: 0.334s
+2021-01-12T04:05:28.133Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-12T04:05:28.133Z - info: Press CTRL+C to stop ...
+2021-01-12T04:05:47.920Z - info: Website generation (lazy) started at 12:05:47 PM
+2021-01-12T04:05:48.003Z - info: Building assets...
+2021-01-12T04:05:48.045Z - info: Assets built
+2021-01-12T04:05:48.045Z - info: Generating landing page...
+2021-01-12T04:05:48.167Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-12T04:05:48.234Z - info: Site data built
+2021-01-12T04:05:48.234Z - info: Website generation (lazy) complete! Total build time: 0.343s
+2021-01-12T04:05:48.250Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-12T04:05:48.250Z - info: Press CTRL+C to stop ...
+2021-01-12T04:06:53.806Z - info: Website generation (lazy) started at 12:06:53 PM
+2021-01-12T04:06:53.899Z - info: Building assets...
+2021-01-12T04:06:53.945Z - info: Assets built
+2021-01-12T04:06:53.945Z - info: Generating landing page...
+2021-01-12T04:06:54.069Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-12T04:06:54.146Z - info: Site data built
+2021-01-12T04:06:54.147Z - info: Website generation (lazy) complete! Total build time: 0.373s
+2021-01-12T04:06:54.162Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-12T04:06:54.163Z - info: Press CTRL+C to stop ...
+2021-01-12T04:07:34.879Z - info: Website generation (lazy) started at 12:07:34 PM
+2021-01-12T04:07:34.965Z - info: Building assets...
+2021-01-12T04:07:35.007Z - info: Assets built
+2021-01-12T04:07:35.008Z - info: Generating landing page...
+2021-01-12T04:07:35.126Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-12T04:07:35.196Z - info: Site data built
+2021-01-12T04:07:35.196Z - info: Website generation (lazy) complete! Total build time: 0.355s
+2021-01-12T04:07:35.211Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-12T04:07:35.212Z - info: Press CTRL+C to stop ...

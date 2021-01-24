@@ -1,0 +1,39 @@
+2020-03-20T15:06:40.400Z - info: Website generation (lazy) started at 11:06:40 PM
+2020-03-20T15:06:40.453Z - info: Building assets...
+2020-03-20T15:06:40.489Z - info: Assets built
+2020-03-20T15:06:40.490Z - info: Generating landing page...
+2020-03-20T15:06:40.664Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-03-20T15:06:40.680Z - info: Website generation (lazy) complete! Total build time: 0.309s
+2020-03-20T15:06:40.698Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-20T15:06:40.698Z - info: Press CTRL+C to stop ...
+2020-03-20T15:06:40.704Z - info: Site data built
+2020-03-20T15:06:44.394Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2020-03-20T15:06:44.524Z - info: Site data built
+2020-03-20T15:06:44.525Z - info: Lazy website regeneration complete! Total build time: 0.133s
+2020-03-20T15:06:48.235Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\makingTheSiteSearchable as some of its dependencies were changed since the last visit
+2020-03-20T15:06:48.420Z - info: Site data built
+2020-03-20T15:06:48.420Z - info: Lazy website regeneration complete! Total build time: 0.187s
+2020-03-20T15:08:10.558Z - info: Website generation (lazy) started at 11:08:10 PM
+2020-03-20T15:08:10.612Z - info: Building assets...
+2020-03-20T15:08:10.663Z - info: Assets built
+2020-03-20T15:08:10.664Z - info: Generating landing page...
+2020-03-20T15:08:10.838Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-03-20T15:08:10.855Z - info: Website generation (lazy) complete! Total build time: 0.316s
+2020-03-20T15:08:10.873Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-20T15:08:10.873Z - info: Press CTRL+C to stop ...
+2020-03-20T15:08:10.878Z - info: Site data built
+2020-03-20T15:08:13.737Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\makingTheSiteSearchable as some of its dependencies were changed since the last visit
+2020-03-20T15:08:13.906Z - info: Site data built
+2020-03-20T15:08:13.907Z - info: Lazy website regeneration complete! Total build time: 0.17s
+2020-03-20T15:10:03.478Z - info: Website generation (lazy) started at 11:10:03 PM
+2020-03-20T15:10:03.532Z - info: Building assets...
+2020-03-20T15:10:03.566Z - info: Assets built
+2020-03-20T15:10:03.567Z - info: Generating landing page...
+2020-03-20T15:10:03.736Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-03-20T15:10:03.753Z - info: Website generation (lazy) complete! Total build time: 0.293s
+2020-03-20T15:10:03.771Z - info: Serving "C:\Users\Ze Yu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2020-03-20T15:10:03.772Z - info: Press CTRL+C to stop ...
+2020-03-20T15:10:03.776Z - info: Site data built
+2020-03-20T15:10:06.919Z - info: Building C:\Users\Ze Yu\Desktop\markbind\docs\userGuide\makingTheSiteSearchable as some of its dependencies were changed since the last visit
+2020-03-20T15:10:07.096Z - info: Site data built
+2020-03-20T15:10:07.097Z - info: Lazy website regeneration complete! Total build time: 0.178s

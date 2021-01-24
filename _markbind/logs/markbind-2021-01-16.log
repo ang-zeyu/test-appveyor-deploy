@@ -1,0 +1,286 @@
+2021-01-16T03:54:07.355Z - info: Website generation (lazy) started at 11:54:07 AM
+2021-01-16T03:54:07.440Z - info: Building assets...
+2021-01-16T03:54:07.494Z - info: Assets built
+2021-01-16T03:54:07.494Z - info: Generating landing page...
+2021-01-16T03:54:07.508Z - warn:  Template render error: (C:\Users\ZeYu\Desktop\markbind\docs\index.md) [Line 10, Column 35]
+  parseSignature: expected comma after expression
+    at Object._prettifyError (C:\Users\ZeYu\Desktop\markbind\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\ZeYu\Desktop\markbind\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\ZeYu\Desktop\markbind\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\ZeYu\Desktop\markbind\packages\core\src\variables\VariableRenderer.js:58:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\ZeYu\Desktop\markbind\packages\core\src\variables\VariableProcessor.js:156:53)
+    at Page.generate (C:\Users\ZeYu\Desktop\markbind\packages\core\src\Page\index.js:454:37)
+    at Site.generateLandingPage (C:\Users\ZeYu\Desktop\markbind\packages\core\src\Site\index.js:918:24)
+    at Site.lazyBuildSourceFiles (C:\Users\ZeYu\Desktop\markbind\packages\core\src\Site\index.js:663:17)
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\Site\index.js:609:44
+2021-01-16T03:54:27.304Z - info: Website generation (lazy) started at 11:54:27 AM
+2021-01-16T03:54:27.377Z - info: Building assets...
+2021-01-16T03:54:27.427Z - info: Assets built
+2021-01-16T03:54:27.428Z - info: Generating landing page...
+2021-01-16T03:54:27.442Z - warn:  Template render error: (C:\Users\ZeYu\Desktop\markbind\docs\index.md) [Line 10, Column 18]
+  parseSignature: expected comma after expression
+    at Object._prettifyError (C:\Users\ZeYu\Desktop\markbind\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\ZeYu\Desktop\markbind\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\ZeYu\Desktop\markbind\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\ZeYu\Desktop\markbind\packages\core\src\variables\VariableRenderer.js:58:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\ZeYu\Desktop\markbind\packages\core\src\variables\VariableProcessor.js:156:53)
+    at Page.generate (C:\Users\ZeYu\Desktop\markbind\packages\core\src\Page\index.js:454:37)
+    at Site.generateLandingPage (C:\Users\ZeYu\Desktop\markbind\packages\core\src\Site\index.js:918:24)
+    at Site.lazyBuildSourceFiles (C:\Users\ZeYu\Desktop\markbind\packages\core\src\Site\index.js:663:17)
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\Site\index.js:609:44
+2021-01-16T03:56:56.180Z - info: Website generation (lazy) started at 11:56:56 AM
+2021-01-16T03:56:56.253Z - info: Building assets...
+2021-01-16T03:56:56.304Z - info: Assets built
+2021-01-16T03:56:56.304Z - info: Generating landing page...
+2021-01-16T03:56:56.948Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-16T03:56:59.426Z - info: Site data built
+2021-01-16T03:56:59.426Z - info: Website generation (lazy) complete! Total build time: 3.255s
+2021-01-16T03:56:59.440Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-16T03:56:59.440Z - info: Press CTRL+C to stop ...
+2021-01-16T03:57:08.846Z - info: [11:57:08 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T03:57:09.855Z - info: Rebuilding 1 pages
+2021-01-16T03:57:09.937Z - info: Site data built
+2021-01-16T03:57:09.937Z - info: Pages rebuilt
+2021-01-16T03:57:09.937Z - info: Website regeneration complete! Total build time: 0.083s
+2021-01-16T03:58:10.776Z - info: [11:58:10 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T03:58:11.781Z - info: Rebuilding 1 pages
+2021-01-16T03:58:11.883Z - info: Site data built
+2021-01-16T03:58:11.883Z - info: Pages rebuilt
+2021-01-16T03:58:11.883Z - info: Website regeneration complete! Total build time: 0.102s
+2021-01-16T03:59:14.988Z - info: [11:59:14 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T03:59:15.991Z - info: Rebuilding 1 pages
+2021-01-16T03:59:16.071Z - info: Site data built
+2021-01-16T03:59:16.071Z - info: Pages rebuilt
+2021-01-16T03:59:16.071Z - info: Website regeneration complete! Total build time: 0.081s
+2021-01-16T03:59:25.709Z - info: [11:59:25 AM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T03:59:26.724Z - info: Rebuilding 1 pages
+2021-01-16T03:59:26.778Z - info: Site data built
+2021-01-16T03:59:26.778Z - info: Pages rebuilt
+2021-01-16T03:59:26.779Z - info: Website regeneration complete! Total build time: 0.055s
+2021-01-16T04:00:16.730Z - info: [12:00:16 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T04:00:17.747Z - info: Rebuilding 1 pages
+2021-01-16T04:00:17.800Z - info: Site data built
+2021-01-16T04:00:17.800Z - info: Pages rebuilt
+2021-01-16T04:00:17.801Z - info: Website regeneration complete! Total build time: 0.055s
+2021-01-16T04:00:27.610Z - info: [12:00:27 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T04:00:28.625Z - info: Rebuilding 1 pages
+2021-01-16T04:00:28.685Z - info: Site data built
+2021-01-16T04:00:28.686Z - info: Pages rebuilt
+2021-01-16T04:00:28.686Z - info: Website regeneration complete! Total build time: 0.062s
+2021-01-16T04:00:36.687Z - info: [12:00:36 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T04:00:37.690Z - info: Rebuilding 1 pages
+2021-01-16T04:00:37.736Z - info: Site data built
+2021-01-16T04:00:37.736Z - info: Pages rebuilt
+2021-01-16T04:00:37.737Z - info: Website regeneration complete! Total build time: 0.048s
+2021-01-16T04:07:26.337Z - info: [12:07:26 PM] Reload for file add: C:\Users\ZeYu\Desktop\markbind\docs\sample - Copy.csv
+2021-01-16T04:07:27.371Z - info: Assets built
+2021-01-16T04:07:33.108Z - info: [12:07:33 PM] Reload for file add: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T04:07:33.222Z - info: [12:07:33 PM] Reload for file deletion: C:\Users\ZeYu\Desktop\markbind\docs\sample - Copy.csv
+2021-01-16T04:07:34.139Z - info: Assets built
+2021-01-16T04:07:34.261Z - debug: Assets removed
+2021-01-16T04:08:39.413Z - info: [12:08:39 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T04:08:40.439Z - info: Assets built
+2021-01-16T04:09:08.126Z - info: [12:09:08 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T04:09:09.129Z - info: Rebuilding 1 pages
+2021-01-16T04:09:09.132Z - error:  Template render error: (C:\Users\ZeYu\Desktop\markbind\docs\index.md)
+  Error: ENOENT: no such file or directory, open 'C:\Users\ZeYu\Desktop\markbind\docs\sampleBom.csv'
+    at Object._prettifyError (C:\Users\ZeYu\Desktop\markbind\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\ZeYu\Desktop\markbind\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\ZeYu\Desktop\markbind\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\ZeYu\Desktop\markbind\packages\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\ZeYu\Desktop\markbind\packages\core\src\variables\VariableRenderer.js:58:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\ZeYu\Desktop\markbind\packages\core\src\variables\VariableProcessor.js:156:53)
+    at Page.generate (C:\Users\ZeYu\Desktop\markbind\packages\core\src\Page\index.js:454:37)
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\Site\index.js:861:64
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\Site\index.js:883:34
+    at Array.forEach (<anonymous>)
+2021-01-16T04:09:09.132Z - warn:  Error: Error while generating undefined
+    at C:\Users\ZeYu\Desktop\markbind\packages\core\src\Site\index.js:874:18
+2021-01-16T04:09:15.651Z - info: [12:09:15 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T04:09:16.661Z - info: Rebuilding 1 pages
+2021-01-16T04:09:16.708Z - info: Site data built
+2021-01-16T04:09:16.708Z - info: Pages rebuilt
+2021-01-16T04:09:16.708Z - info: Website regeneration complete! Total build time: 0.047s
+2021-01-16T04:09:28.839Z - info: [12:09:28 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T04:09:29.852Z - info: Rebuilding 1 pages
+2021-01-16T04:09:29.921Z - info: Site data built
+2021-01-16T04:09:29.921Z - info: Pages rebuilt
+2021-01-16T04:09:29.922Z - info: Website regeneration complete! Total build time: 0.069s
+2021-01-16T04:09:36.065Z - info: [12:09:36 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T04:09:37.079Z - info: Rebuilding 1 pages
+2021-01-16T04:09:37.126Z - info: Site data built
+2021-01-16T04:09:37.127Z - info: Pages rebuilt
+2021-01-16T04:09:37.127Z - info: Website regeneration complete! Total build time: 0.049s
+2021-01-16T04:09:48.055Z - info: [12:09:48 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T04:09:49.066Z - info: Rebuilding 1 pages
+2021-01-16T04:09:49.118Z - info: Site data built
+2021-01-16T04:09:49.118Z - info: Pages rebuilt
+2021-01-16T04:09:49.118Z - info: Website regeneration complete! Total build time: 0.052s
+2021-01-16T04:09:54.877Z - info: [12:09:54 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T04:09:55.883Z - info: Rebuilding 1 pages
+2021-01-16T04:09:55.927Z - info: Site data built
+2021-01-16T04:09:55.928Z - info: Pages rebuilt
+2021-01-16T04:09:55.928Z - info: Website regeneration complete! Total build time: 0.047s
+2021-01-16T04:09:59.421Z - info: [12:09:59 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T04:10:00.430Z - info: Rebuilding 1 pages
+2021-01-16T04:10:00.470Z - info: Site data built
+2021-01-16T04:10:00.470Z - info: Pages rebuilt
+2021-01-16T04:10:00.470Z - info: Website regeneration complete! Total build time: 0.041s
+2021-01-16T04:10:11.282Z - info: [12:10:11 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T04:10:12.287Z - info: Rebuilding 1 pages
+2021-01-16T04:10:12.332Z - info: Site data built
+2021-01-16T04:10:12.332Z - info: Pages rebuilt
+2021-01-16T04:10:12.332Z - info: Website regeneration complete! Total build time: 0.047s
+2021-01-16T04:10:16.034Z - info: [12:10:16 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T04:10:17.037Z - info: Rebuilding 1 pages
+2021-01-16T04:10:17.075Z - info: Site data built
+2021-01-16T04:10:17.075Z - info: Pages rebuilt
+2021-01-16T04:10:17.075Z - info: Website regeneration complete! Total build time: 0.038s
+2021-01-16T04:10:28.260Z - info: [12:10:28 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T04:10:29.267Z - info: Rebuilding 1 pages
+2021-01-16T04:10:29.307Z - info: Site data built
+2021-01-16T04:10:29.307Z - info: Pages rebuilt
+2021-01-16T04:10:29.307Z - info: Website regeneration complete! Total build time: 0.043s
+2021-01-16T04:12:54.410Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2021-01-16T04:12:54.447Z - info: Site data built
+2021-01-16T04:12:54.447Z - info: Lazy website regeneration complete! Total build time: 0.038s
+2021-01-16T04:12:55.790Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\gettingStarted as some of its dependencies were changed since the last visit
+2021-01-16T04:12:55.877Z - info: Site data built
+2021-01-16T04:12:55.877Z - info: Lazy website regeneration complete! Total build time: 0.088s
+2021-01-16T04:12:58.997Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\usingComponents as some of its dependencies were changed since the last visit
+2021-01-16T04:12:59.560Z - info: Site data built
+2021-01-16T04:12:59.561Z - info: Lazy website regeneration complete! Total build time: 0.565s
+2021-01-16T04:13:11.235Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\formattingContents as some of its dependencies were changed since the last visit
+2021-01-16T04:13:11.450Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/userGuide/syntax/v40b3ExbM0c' found in file 'C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\outputBox.md'
+2021-01-16T04:13:11.700Z - info: Site data built
+2021-01-16T04:13:11.701Z - info: Lazy website regeneration complete! Total build time: 0.466s
+2021-01-16T04:13:30.545Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\reusingContents as some of its dependencies were changed since the last visit
+2021-01-16T04:13:30.713Z - info: Site data built
+2021-01-16T04:13:30.713Z - info: Lazy website regeneration complete! Total build time: 0.168s
+2021-01-16T04:25:45.680Z - info: [12:25:45 PM] Reload for file deletion: C:\Users\ZeYu\Desktop\markbind\docs\sample.csv
+2021-01-16T04:25:46.712Z - info: Page added or removed, updating list of site's pages...
+2021-01-16T04:25:48.780Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\reusingContents as some of its dependencies were changed since the last visit
+2021-01-16T04:25:48.908Z - info: Site data built
+2021-01-16T04:25:48.908Z - info: Lazy website regeneration complete! Total build time: 0.129s
+2021-01-16T04:25:51.916Z - info: [12:25:51 PM] Reload for file deletion: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T04:25:52.947Z - debug: Assets removed
+2021-01-16T04:25:58.513Z - info: [12:25:58 PM] Reload for file deletion: C:\Users\ZeYu\Desktop\markbind\docs\sample_no-header.csv
+2021-01-16T04:25:59.540Z - debug: Assets removed
+2021-01-16T04:25:59.640Z - info: [12:25:59 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T04:26:00.646Z - info: Assets built
+2021-01-16T04:26:22.909Z - info: [12:26:22 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\variables.mbdf
+2021-01-16T04:26:22.909Z - info: [12:26:22 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\panels.mbdf
+2021-01-16T04:26:23.017Z - info: [12:26:23 PM] Reload for file deletion: C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\extra\scoreboard.csv
+2021-01-16T04:26:23.912Z - info: Rebuilding 1 pages
+2021-01-16T04:26:23.998Z - info: Assets built
+2021-01-16T04:26:24.060Z - info: Page added or removed, updating list of site's pages...
+2021-01-16T04:26:24.097Z - info: Site data built
+2021-01-16T04:26:24.097Z - info: Pages rebuilt
+2021-01-16T04:26:24.097Z - info: Website regeneration complete! Total build time: 0.185s
+2021-01-16T04:26:26.107Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\reusingContents as some of its dependencies were changed since the last visit
+2021-01-16T04:26:26.258Z - info: Site data built
+2021-01-16T04:26:26.258Z - info: Lazy website regeneration complete! Total build time: 0.151s
+2021-01-16T04:26:31.885Z - info: Website generation (lazy) started at 12:26:31 PM
+2021-01-16T04:26:31.961Z - info: Building assets...
+2021-01-16T04:26:32.015Z - info: Assets built
+2021-01-16T04:26:32.015Z - info: Generating landing page...
+2021-01-16T04:26:32.655Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-16T04:26:35.096Z - info: Site data built
+2021-01-16T04:26:35.096Z - info: Website generation (lazy) complete! Total build time: 3.251s
+2021-01-16T04:26:35.109Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-16T04:26:35.109Z - info: Press CTRL+C to stop ...
+2021-01-16T04:26:55.928Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2021-01-16T04:26:55.959Z - info: Site data built
+2021-01-16T04:26:55.959Z - info: Lazy website regeneration complete! Total build time: 0.032s
+2021-01-16T04:26:57.308Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\gettingStarted as some of its dependencies were changed since the last visit
+2021-01-16T04:26:57.397Z - info: Site data built
+2021-01-16T04:26:57.397Z - info: Lazy website regeneration complete! Total build time: 0.09s
+2021-01-16T04:28:19.873Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\usingComponents as some of its dependencies were changed since the last visit
+2021-01-16T04:28:20.520Z - info: Site data built
+2021-01-16T04:28:20.521Z - info: Lazy website regeneration complete! Total build time: 0.648s
+2021-01-16T04:28:33.421Z - info: [12:28:33 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\panels.mbdf
+2021-01-16T04:28:34.432Z - info: Rebuilding 1 pages
+2021-01-16T04:28:34.947Z - info: Site data built
+2021-01-16T04:28:34.948Z - info: Pages rebuilt
+2021-01-16T04:28:34.948Z - info: Website regeneration complete! Total build time: 0.516s
+2021-01-16T04:28:43.967Z - info: [12:28:43 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\panels.mbdf
+2021-01-16T04:28:44.973Z - info: Rebuilding 1 pages
+2021-01-16T04:28:45.560Z - info: Site data built
+2021-01-16T04:28:45.561Z - info: Pages rebuilt
+2021-01-16T04:28:45.561Z - info: Website regeneration complete! Total build time: 0.588s
+2021-01-16T07:54:30.033Z - info: Website generation (lazy) started at 3:54:29 PM
+2021-01-16T07:54:30.127Z - info: Building assets...
+2021-01-16T07:54:30.179Z - info: Assets built
+2021-01-16T07:54:30.180Z - info: Generating landing page...
+2021-01-16T07:54:30.812Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-16T07:54:33.264Z - info: Site data built
+2021-01-16T07:54:33.265Z - info: Website generation (lazy) complete! Total build time: 3.27s
+2021-01-16T07:54:33.278Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\docs\_site" at http://127.0.0.1:8080
+2021-01-16T07:54:33.278Z - info: Press CTRL+C to stop ...
+2021-01-16T07:55:09.298Z - info: [3:55:09 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T07:55:10.314Z - info: Rebuilding 1 pages
+2021-01-16T07:55:10.445Z - info: Site data built
+2021-01-16T07:55:10.446Z - info: Pages rebuilt
+2021-01-16T07:55:10.446Z - info: Website regeneration complete! Total build time: 0.132s
+2021-01-16T07:55:17.006Z - info: [3:55:17 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T07:55:18.007Z - info: Rebuilding 1 pages
+2021-01-16T07:55:18.079Z - info: Site data built
+2021-01-16T07:55:18.079Z - info: Pages rebuilt
+2021-01-16T07:55:18.079Z - info: Website regeneration complete! Total build time: 0.072s
+2021-01-16T07:55:44.514Z - info: [3:55:44 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T07:55:45.529Z - info: Rebuilding 1 pages
+2021-01-16T07:55:45.597Z - info: Site data built
+2021-01-16T07:55:45.597Z - info: Pages rebuilt
+2021-01-16T07:55:45.597Z - info: Website regeneration complete! Total build time: 0.068s
+2021-01-16T07:56:05.027Z - info: [3:56:05 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T07:56:06.040Z - info: Rebuilding 1 pages
+2021-01-16T07:56:06.105Z - info: Site data built
+2021-01-16T07:56:06.105Z - info: Pages rebuilt
+2021-01-16T07:56:06.105Z - info: Website regeneration complete! Total build time: 0.065s
+2021-01-16T07:56:15.823Z - info: [3:56:15 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T07:56:16.828Z - info: Rebuilding 1 pages
+2021-01-16T07:56:16.878Z - info: Site data built
+2021-01-16T07:56:16.878Z - info: Pages rebuilt
+2021-01-16T07:56:16.879Z - info: Website regeneration complete! Total build time: 0.05s
+2021-01-16T08:20:46.511Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\index as some of its dependencies were changed since the last visit
+2021-01-16T08:20:46.525Z - info: Site data built
+2021-01-16T08:20:46.526Z - info: Lazy website regeneration complete! Total build time: 0.015s
+2021-01-16T08:20:47.896Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\gettingStarted as some of its dependencies were changed since the last visit
+2021-01-16T08:20:47.960Z - info: Site data built
+2021-01-16T08:20:47.960Z - info: Lazy website regeneration complete! Total build time: 0.064s
+2021-01-16T08:20:52.605Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\reusingContents as some of its dependencies were changed since the last visit
+2021-01-16T08:20:52.761Z - info: Site data built
+2021-01-16T08:20:52.761Z - info: Lazy website regeneration complete! Total build time: 0.156s
+2021-01-16T09:31:04.220Z - info: [5:31:04 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\index.md
+2021-01-16T09:31:05.025Z - info: [5:31:05 PM] Reload for file deletion: C:\Users\ZeYu\Desktop\markbind\docs\sample.csv
+2021-01-16T09:31:05.025Z - info: [5:31:05 PM] Reload for file deletion: C:\Users\ZeYu\Desktop\markbind\docs\sampleNoBom.csv
+2021-01-16T09:31:05.025Z - info: [5:31:05 PM] Reload for file deletion: C:\Users\ZeYu\Desktop\markbind\docs\sample_no-header.csv
+2021-01-16T09:31:05.233Z - info: No pages needed to be rebuilt
+2021-01-16T09:31:06.050Z - debug: Assets removed
+2021-01-16T09:31:06.081Z - info: Page added or removed, updating list of site's pages...
+2021-01-16T09:31:08.117Z - info: Building C:\Users\ZeYu\Desktop\markbind\docs\userGuide\reusingContents as some of its dependencies were changed since the last visit
+2021-01-16T09:31:08.258Z - info: Site data built
+2021-01-16T09:31:08.259Z - info: Lazy website regeneration complete! Total build time: 0.141s
+2021-01-16T09:31:08.637Z - info: [5:31:08 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\docs\userGuide\syntax\blockquotes.mbdf
+2021-01-16T09:31:09.651Z - info: Assets built
