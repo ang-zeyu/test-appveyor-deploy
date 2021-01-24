@@ -1,5 +1,5 @@
 {
-  "baseUrl": "",
+  "baseUrl": "/test-appveyor-deploy",
   "timeZone": "Asia/Singapore",
   "titlePrefix": "MarkBind",
   "style": {
